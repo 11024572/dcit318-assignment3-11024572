@@ -1,0 +1,5 @@
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.sourcelink.json
