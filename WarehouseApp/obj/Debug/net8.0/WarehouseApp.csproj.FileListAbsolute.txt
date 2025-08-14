@@ -1,0 +1,15 @@
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\bin\Debug\net8.0\WarehouseApp.exe
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\bin\Debug\net8.0\WarehouseApp.deps.json
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\bin\Debug\net8.0\WarehouseApp.runtimeconfig.json
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\bin\Debug\net8.0\WarehouseApp.dll
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\bin\Debug\net8.0\WarehouseApp.pdb
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.sourcelink.json
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.dll
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\refint\WarehouseApp.dll
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.pdb
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\WareHouseApp\obj\Debug\net8.0\ref\WarehouseApp.dll

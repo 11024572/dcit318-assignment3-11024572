@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\WareHouseApp\\WarehouseApp.csproj": {}
+    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\SchoolGradingSystem\\SchoolGradingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\WareHouseApp\\WarehouseApp.csproj": {
+    "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\SchoolGradingSystem\\SchoolGradingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\WareHouseApp\\WarehouseApp.csproj",
-        "projectName": "WarehouseApp",
-        "projectPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\WareHouseApp\\WarehouseApp.csproj",
+        "projectUniqueName": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\SchoolGradingSystem\\SchoolGradingSystem.csproj",
+        "projectName": "SchoolGradingSystem",
+        "projectPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\SchoolGradingSystem\\SchoolGradingSystem.csproj",
         "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\WareHouseApp\\obj\\",
+        "outputPath": "C:\\Users\\Caleb\\OneDrive - University of Ghana\\Desktop\\dcit318-assignment3-11024572\\SchoolGradingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
