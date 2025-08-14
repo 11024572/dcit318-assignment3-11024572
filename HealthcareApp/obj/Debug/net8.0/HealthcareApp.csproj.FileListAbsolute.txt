@@ -1,0 +1,5 @@
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\HealthcareApp\obj\Debug\net8.0\HealthcareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\HealthcareApp\obj\Debug\net8.0\HealthcareApp.AssemblyInfoInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\HealthcareApp\obj\Debug\net8.0\HealthcareApp.AssemblyInfo.cs
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\HealthcareApp\obj\Debug\net8.0\HealthcareApp.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive - University of Ghana\Desktop\dcit318-assignment3-11024572\HealthcareApp\obj\Debug\net8.0\HealthcareApp.sourcelink.json
